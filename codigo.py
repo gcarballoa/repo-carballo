@@ -1,8 +1,9 @@
-nombre = "Yo soy"
+nombre = "Alonso"
 apellido = "Carballo"
 
 saludo = "Hola " + nombre + " " + apellido + ", ¿cómo estás?"
 print(saludo)
+
 
 
 
